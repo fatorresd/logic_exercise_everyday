@@ -32,7 +32,7 @@ Each day, I tackle a new problem, write the solution in Python (or another langu
 
 Here are the challenges I've solved so far:
 
-- **[Day 1: Best Time to buy and sell](Day1_JumpGame/)** - Determine if you can reach the last index of an array using jumps.
+- **[Day 1: Best Time to buy and sell](best_time_to_buy_and_sell.py/)** - Determine if you can reach the last index of an array using jumps.
 - **[Day 2: Jump Game and Number of Substrings Containing All Three Characters](Day2_TwoSum/)** - Find two numbers in an array that add up to a target value.
 - *(More to come!)*
 
