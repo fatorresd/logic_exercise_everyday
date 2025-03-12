@@ -32,9 +32,9 @@ Each day, I tackle a new problem, write the solution in Python (or another langu
 
 Here are the challenges I've solved so far:
 
-- **[Day 1: Jump Game](Day1_JumpGame/)** - Determine if you can reach the last index of an array using jumps.
-- **[Day 2: Two Sum](Day2_TwoSum/)** - Find two numbers in an array that add up to a target value.
-- **[Day 3: Palindrome Check](Day3_PalindromeCheck/)** - Check if a string is a palindrome.
+- **[Day 1: Best Time to Buy and Sell](best_time_to_buy_and_sell.py)** - Find the best time to buy and sell a stock to maximize profit.
+- **[Day 2: Jump Game](jump_game.py)** - Determine if you can reach the last index of an array using jumps.
+- **[Day 2: Number of Substrings Containing All Three Characters](number_of_substrings_containing_all_three_characters.py)** - Count the number of substrings containing all three characters ('a', 'b', and 'c').
 - *(More to come!)*
 
 ---
